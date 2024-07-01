@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MainMenu\Settings.cs" />
     <Compile Include="Assets\Scripts\Planting\Soil.cs" />
+    <Compile Include="Assets\Scripts\DoorMechanic.cs" />
     <Compile Include="Assets\Scripts\CamSwitcher.cs" />
     <Compile Include="Assets\Scripts\HomeDoor.cs" />
     <Compile Include="Assets\Scripts\Planting\Item Data\EquipmentData.cs" />
@@ -78,7 +79,7 @@
     <Compile Include="Assets\Scripts\Planting\UI\UIManager.cs" />
     <Compile Include="Assets\Scripts\MainMenu\UnityGUIUtilityWindow.cs" />
     <Compile Include="Assets\Scripts\PopupTrigger.cs" />
-    <Compile Include="Assets\Scripts\NPC\NPCInteract.cs" />
+    <Compile Include="Assets\Scripts\Planting\CropBehaviour.cs" />
     <Compile Include="Assets\Scripts\SoundManager.cs" />
     <Compile Include="Assets\Scripts\Interactable.cs" />
     <Compile Include="Assets\Scripts\Sound.cs" />
